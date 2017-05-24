@@ -1,0 +1,19 @@
+{
+  "name": "tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hising/tv.git"
+  },
+  "author": "Mattias Hising <mattias@ridgestreet.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hising/tv/issues"
+  },
+  "homepage": "https://github.com/hising/tv#readme"
+}
